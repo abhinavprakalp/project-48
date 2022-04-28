@@ -22,7 +22,7 @@ class form{
     display(){
         this.title.style('color', 'blue');
         this.title.style('font-size', '40px');
-        this.title.html("Fight between great warriors");
+        this.title.html("Fight between legends");
         this.title.position(150,50);
 
         image(rama,100,200,100,100);
